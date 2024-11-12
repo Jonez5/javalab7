@@ -20,4 +20,4 @@ public class insertElements
          System.out.print(arr[i]+ " ");
    }
 }
-s
+
